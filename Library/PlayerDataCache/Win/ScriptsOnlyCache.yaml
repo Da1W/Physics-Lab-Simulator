@@ -617,7 +617,7 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: f28f6fa3807fb4478f77e35e5ed0a9ce
+      Hash: 8559b2b71ef4df216b1be306c2da5b2f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ButtonsManager
